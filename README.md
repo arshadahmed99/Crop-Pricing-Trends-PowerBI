@@ -50,9 +50,3 @@ This project focused on analyzing crop pricing trends across districts using **S
 
 ---
 
-## 📷 Dashboard Preview
-
-*(Insert a screenshot here by uploading it and using this Markdown syntax)*
-
-```markdown
-![Dashboard Screenshot](images/dashboard_preview.png)

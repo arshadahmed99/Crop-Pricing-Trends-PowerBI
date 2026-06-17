@@ -27,7 +27,7 @@ This project analyzes the full cost breakdown of crop operations — material co
 
 Tracks total cost across material, fuel, and manpower for cereal crop operations, filterable by Operation, Variety, Counter, Crop Year, Sub-District, and Zone.
 
-![Cereals Dashboard](assets/tab_1.jpg)
+![Cereals Dashboard](assets/tab1.jpg)
 
 **Key metrics visible:**
 - Total Cost: **1.69M** · Material 1 Price: **1.09M** · Material 2 Price: **74.86K**
@@ -44,7 +44,7 @@ Tracks total cost across material, fuel, and manpower for cereal crop operations
 
 The largest cost category in the report. Tracks the same material/fuel/manpower split for standard cotton operations, filterable by Operation, Zone, Variety, Sub-District, Crop Year, and Counter.
 
-![Cotton Dashboard](assets/tab_2.jpg)
+![Cotton Dashboard](assets/tab2.jpg)
 
 **Key metrics visible:**
 - Total Cost: **3.26M** · Material 1 Cost: **2.53M** · Material 2 Cost: **8.57K**
